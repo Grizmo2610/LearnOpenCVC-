@@ -27,3 +27,9 @@
 184	220	7499962521063326	CMakeFiles/Threading.dir/src/MultiThreading/main.cpp.obj.modmap	4c3002c514b77732
 221	2201	7499962521429904	CMakeFiles/Threading.dir/src/MultiThreading/main.cpp.obj	b0eafa83ac09aa1
 2201	2375	7499962541223883	Threading.exe	982fa6979a18d2fb
+2	387	7499975577759366	CMakeFiles/Threading.dir/src/MultiThreading/main.cpp.obj.ddi	44850a3d3f084e3d
+387	424	7499975581614662	CMakeFiles/Threading.dir/CXX.dd	4c3002c514b77732
+387	424	7499975581614662	C:/HoangTu/Programing/C/VietRad/OpenCVTest/cmake-build-debug/CMakeFiles/Threading.dir/CXXModules.json	4c3002c514b77732
+387	424	7499975581614662	CMakeFiles/Threading.dir/src/MultiThreading/main.cpp.obj.modmap	4c3002c514b77732
+425	2434	7499975581988783	CMakeFiles/Threading.dir/src/MultiThreading/main.cpp.obj	b0eafa83ac09aa1
+2434	2596	7499975602074679	Threading.exe	982fa6979a18d2fb
