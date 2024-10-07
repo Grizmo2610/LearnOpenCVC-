@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\Threading.dir\\src\\MultiThreading\\main.cpp.obj",
+            "outputs": [
+                "C:\\HoangTu\\Programing\\C\\VietRad\\OpenCVTest\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\Threading.dir\\src\\MultiThreading\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

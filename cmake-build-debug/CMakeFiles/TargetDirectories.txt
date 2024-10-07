@@ -1,0 +1,4 @@
+C:/HoangTu/Programing/C/VietRad/OpenCVTest/cmake-build-debug/CMakeFiles/OpenCVTest.dir
+C:/HoangTu/Programing/C/VietRad/OpenCVTest/cmake-build-debug/CMakeFiles/Threading.dir
+C:/HoangTu/Programing/C/VietRad/OpenCVTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/HoangTu/Programing/C/VietRad/OpenCVTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

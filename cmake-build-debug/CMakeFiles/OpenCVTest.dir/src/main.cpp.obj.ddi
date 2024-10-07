@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\OpenCVTest.dir\\src\\main.cpp.obj",
+            "outputs": [
+                "C:\\HoangTu\\Programing\\C\\VietRad\\OpenCVTest\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\OpenCVTest.dir\\src\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
